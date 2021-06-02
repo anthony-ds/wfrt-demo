@@ -1,4 +1,4 @@
-mple Markdown
+# Example Markdown
 
 ## h2 Heading
 ### h3 Heading
